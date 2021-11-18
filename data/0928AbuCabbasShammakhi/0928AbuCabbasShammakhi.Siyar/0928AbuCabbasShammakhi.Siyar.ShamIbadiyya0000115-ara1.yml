@@ -1,14 +1,10 @@
-00#VERS#CLENGTH##: 573706
-00#VERS#LENGTH###: 137603
-00#VERS#URI######: 0928AbuCabbasShammakhi.Siyar.ShamIbadiyya0000115-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+00#VERS#CLENGTH##:  	573706
+00#VERS#LENGTH###:	137603
+00#VERS#URI######: 	0928AbuCabbasShammakhi.Siyar.ShamIbadiyya0000115-ara1
+80#VERS#BASED####: 	http://www.worldcat.org/oclc/1142001304
+80#VERS#COLLATED#	http://www.worldcat.org/oclc/1142001304
+80#VERS#LINKS####:	https://www.noor-book.com/en/ebook-Kita%CC%84b-alSiyar-pdf
+90#VERS#ANNOTATOR:	Omar Abdel-Ghaffar (SHARIAsource-CnC)
+90#VERS#COMMENT##:	The text has no major problems and follows the printed edition very accurately. The pages were not annotated but were still noted in the text. SPL: This is an old edition and has no hierachical structure.
+90#VERS#DATE#####:	2020-08-07
+90#VERS#ISSUES###:	NO_MAJOR_ISSUES
