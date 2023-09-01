@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://ar.islamway.net/book/17091/الكواكب-النيرات-فى-معرفة-من-اختلط-من-الرواة-الثقات
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Pagination is occasionally out by a few lines. There
-    is an appendix.
+        is an appendix.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: HTML_TAGS, PAGINATION
+90#VERS#ISSUES###: HTML_TAGS, PAGINATION, PRIMARY_VERSION, CLEANED_VERSION
