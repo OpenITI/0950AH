@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 937037
-00#VERS#LENGTH###: 213333
+00#VERS#CLENGTH##: 900324
+00#VERS#LENGTH###: 205485
 00#VERS#URI######: 0927Culaymi.UnsJalil.Shamela0006626-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770228070
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770228070
@@ -17,6 +17,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0950AH/pre-clean/data/0927Culaymi/0927Culaymi.UnsJalil/0927Culaymi.UnsJalil.Shamela0006626-ara1
+    https://raw.githubusercontent.com/OpenITI/0950AH/pre-
+    clean/data/0927Culaymi/0927Culaymi.UnsJalil/0927Culaymi.UnsJalil.Shamela0006626-ara1
 90#VERS#DATE#####: 2020-11-09
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, PAGINATION, EDITORIAL_SECTIONS., PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PAGINATION, EDITORIAL_SECTIONS.,
+    PRIMARY_VERSION, CLEANED_VERSION
