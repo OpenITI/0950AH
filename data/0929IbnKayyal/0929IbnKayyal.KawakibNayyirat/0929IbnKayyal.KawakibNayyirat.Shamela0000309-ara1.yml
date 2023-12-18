@@ -12,5 +12,6 @@
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
     https://raw.githubusercontent.com/OpenITI/0950AH/pre-clean/data/0929IbnKayyal/0929IbnKayyal.KawakibNayyirat/0929IbnKayyal.KawakibNayyirat.Shamela0000309-ara1.completed
+   NOTE OF THE REVIEWER (HRH): There is an appendix at the end of the text that should be split off. I raised an issue for it.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: HTML_TAGS, PAGINATION, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION
