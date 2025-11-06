@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0927Nucaymi
 10#AUTH#ISM####AR: ʿAbd al-Qādir
-10#AUTH#KUNYA##AR:
-10#AUTH#LAQAB##AR:
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. Muḥammad
 10#AUTH#NISBA##AR: al-Nuʿaymī al-Dimašqī
 10#AUTH#SHUHRA#AR: ʿAbd al-Qādir b. Muḥammad al-Nuʿaymī al-Dimašqī
@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0927-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: 0953IbnTulun,
 40#AUTH#TEACHERS#: 0869IbnKhalilZaynDinQabuni
+70#AUTH#EXTID####: wikidata@Q136109190
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Biographical info here
     https://naseemalsham.com/subjects/view/56657

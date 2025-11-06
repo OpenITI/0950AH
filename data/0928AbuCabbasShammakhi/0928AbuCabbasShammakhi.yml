@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0928-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q100964828
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abū ’l-ʿAbbās Aḥmad b. Abī ʿUt̲h̲mān Saʿīd b. ʿAbd al-Wāḥid, especially famed as a biographer, died in D̲j̲umādā 928/April-May 1522 in one of the villages of the oasis of the Ifren of the D̲j̲abal Nafūsa, in Tripolitania.": http://dx.doi.org/10.1163/1573-3912_islam_COM_1033
